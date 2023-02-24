@@ -1,0 +1,72 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "_id": "1",
+        "_source": {
+          "tag": "Livro",
+          "title": "FEDERALISMO : INTRODUÇÃO AO ESTUDO DOS SEUS PRINCÍPIOS",
+          "cover": "https://www.forumconhecimento.com.br/Uploads/Livros/Edicao/Capa/4516_undefined_998_list.jpg",
+          "author": "Mario Drumond Coelho",
+          "date": "2023",
+          "desc": "Fala-se muito sobre república no Brasil, e pouco sobre federalismo. Somos uma nação federalista, devemos nos orgulhar disso e é urgente compreender e estudar os postulados da federação. Uma nação que abraça a solução federalista requer, de modo permanente e constante, a construção de uma cultura federalista, orientada por dois princípios cruciais: unidade e diversidade."
+        }
+      },
+      {
+        "_id": "2",
+        "_source": {
+          "tag": "Livro",
+          "title": "NEUTRALIDADE, VALOR ACRESCIDO E TRIBUTAÇÃO",
+          "cover": "https://www.forumconhecimento.com.br/Uploads/Livros/Edicao/Capa/3987_undefined_84_list.jpg",
+          "author": "André Mendes Moreira",
+          "date": "2023",
+          "desc": "André Mendes Moreira consolida-se, com a publicação desta pequena grande obra, como um dos principais tributaristas da nova geração. Reúne, em uma só pessoa, qualidades que poucos têm isoladamente: consegue ser claro, conciso, consistente, coerente e convincente, tanto falando quanto escrevendo."
+        }
+      },
+      {
+        "_id": "3",
+        "_source": {
+          "tag": "Livro",
+          "title": "PROCESSO ADMINISTRATIVO AMBIENTAL",
+          "cover": "https://www.forumconhecimento.com.br/Uploads/Livros/Edicao/Capa/4107_4722_277_list.jpg",
+          "author": "Pedro Niebuhr",
+          "date": "2023",
+          "desc": "Processo Administrativo Ambiental, do Professor Pedro Niebuhr, é um dos mais completos trabalhos sobre a tutela administrativa do ambiente. A obra apresenta os pressupostos teóricos dos processos administrativos ambientais e correspondentes desdobramentos nas suas múltiplas espécies."
+        }
+      },
+      {
+        "_id": "4",
+        "_source": {
+          "tag": "Livro",
+          "title": "EXPROPRIAÇÃO INDIRETA NOS ACORDOS DE INVESTIMENTOS",
+          "cover": "https://www.forumconhecimento.com.br/Uploads/Livros/Edicao/Capa/4507_undefined_176_list.jpg",
+          "author": "Vivian Daniele Rocha Gabriel",
+          "date": "2023",
+          "desc": "Os acordos internacionais possuem arranjos distintos, que vão se moldando conforme os interesses dos Estados. Na área dos investimentos estrangeiros não é diferente. Os dispositivos relativos à expropriação indireta, conceito inovador para o Direito Internacional e Administrativo, foram retratados inicialmente de forma vaga e superficial."
+        }
+      },
+      {
+        "_id": "5",
+        "_source": {
+          "tag": "Livro",
+          "title": "MAGNÍFICAS MULHERES : LUTANDO E CONQUISTANDO DIREITOS",
+          "cover": "https://www.forumconhecimento.com.br/Uploads/Livros/Edicao/Capa/4504_undefined_724_list.jpg",
+          "author": "Denise Pinheiro Santos Mendes",
+          "date": "2023",
+          "desc": "Em um contexto de expansão social do gênero feminino, despontam mulheres com perfil de liderança em diversos segmentos profissionais, pela primeira vez tendo a chance de ocupar espaços de poder. Muito embora não sem luta, esse reconhecimento possibilitou a assunção de importantes papéis no Judiciário paraense, o que levou a uma marca histórica."
+        }
+      },
+      {
+        "_id": "6",
+        "_source": {
+          "tag": "Livro",
+          "title": "PRINCÍPIOS DE DIREITO ADMINISTRATIVO : EVOLUÇÃO, RELEITURA E PERSPECTIVAS NO MUNDO PÓS-PANDÊMICO",
+          "cover": "https://www.forumconhecimento.com.br/Uploads/Livros/Edicao/Capa/4502_undefined_302_list.jpg",
+          "author": "Humberto Lucchesi de Carvalho",
+          "date": "2023",
+          "desc": "Princípios são fachos de luz que iluminam os mais obscuros caminhos do conhecimento humano”. Este é o ponto de partida para entendermos o propósito de Humberto Lucchesi de Carvalho e Roberto Miglio Sena, ao redigirem a presente obra. Revisitar os princípios de Direito Administrativo, ao mesmo tempo tão importantes quanto seculares em nosso ordenamento, não é tarefa das mais fáceis."
+        }
+      }
+    ]
+  }
+}

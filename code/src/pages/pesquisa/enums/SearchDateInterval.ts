@@ -1,0 +1,9 @@
+export enum SearchDateInterval {
+  ALL = 0,
+  LAST_MONTH = 1,
+  ONLY_IN_CURRENT_YEAR = 2,
+  IN_THE_LAST_TWO_YEARS = 3,
+  IN_THE_LAST_FIVE_YEARS = 4,
+  IN_THE_LAST_TEN_YEARS = 5,
+  CUSTOM = 6
+}

@@ -1,0 +1,15 @@
+{
+	"short_name": "FÓRUM",
+	"name": "FÓRUM",
+	"icons": [
+		{
+			"src": "/favicon-forum.ico",
+			"sizes": "16x16",
+			"type": "image/png"
+		}
+	],
+	"start_url": ".",
+	"display": "standalone",
+	"theme_color": "#192a56",
+	"background_color": "#003a7000"
+}

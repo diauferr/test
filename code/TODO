@@ -1,0 +1,12 @@
+Em andamento:
+    ✔ Formulario de inscricao. @done(21-06-16 17:32)
+    ✔ Formulario de login. @done(21-06-16 17:33)
+    ☐ Ajuste Auth0.
+    ☐ Integracao com servico de perfil de usuario.
+
+    ✔ Mostrar informacoes da sessao. @started(21-10-29 19:05) @done(21-10-29 20:16) @lasted(1h11m7s)
+    ✔ Mostrar resultado de busca geral. @started(21-10-29 19:05) @done(21-10-29 20:16) @lasted(1h11m22s)
+    ✔ Corrigir erro no botao 'logout'. @started(21-10-29 19:05) @done(21-10-29 19:38) @lasted(33m7s)
+
+Backlog:
+    ☐ CDK e ambiente novo de homologacao.

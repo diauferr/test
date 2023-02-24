@@ -1,0 +1,6 @@
+export enum ArticleType {
+  TODOS = 1,
+  DOUTRINA = 2,
+  JURISPRUDENCIA = 3,
+  TENDENCIA_JURISPRUDENCIAL = 4
+}

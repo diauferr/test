@@ -1,0 +1,97 @@
+{
+	"order": 10,
+	"index_patterns": ["*content"],
+	"settings": {
+		"index": {
+			"analysis": {
+				"filter": {
+					"brazilian_stemmer": {
+						"type": "stemmer",
+						"language": "brazilian"
+					},
+					"brazilian_stop": {
+						"type": "stop",
+						"stopwords": "_brazilian_"
+					}
+				},
+				"analyzer": {
+					"rebuilt_brazilian": {
+						"filter": ["lowercase", "brazilian_stop", "brazilian_stemmer"],
+						"tokenizer": "standard"
+					}
+				}
+			}
+		}
+	},
+	"mappings": {
+		"properties": {
+			"contractTags": {
+				"type": "keyword"
+			},
+			"author": {
+				"analyzer": "rebuilt_brazilian",
+				"type": "text"
+			},
+			"editionId": {
+				"type": "keyword"
+			},
+			"isbn": {
+				"type": "keyword"
+			},
+			"publishDate": {
+				"format": "yyyy-MM-dd HH:mm:ss||yyyy-MM-dd||epoch_millis",
+				"type": "date"
+			},
+			"title": {
+				"analyzer": "rebuilt_brazilian",
+				"type": "text"
+			},
+			"parentId": {
+				"type": "keyword"
+			},
+			"tags": {
+				"type": "keyword"
+			},
+			"createdAt": {
+				"format": "yyyy-MM-dd HH:mm:ss||yyyy-MM-dd||epoch_millis",
+				"type": "date"
+			},
+			"subTitle": {
+				"analyzer": "rebuilt_brazilian",
+				"type": "text"
+			},
+			"text3": {
+				"analyzer": "rebuilt_brazilian",
+				"type": "text"
+			},
+			"articleType": {
+				"type": "integer"
+			},
+			"text2": {
+				"analyzer": "rebuilt_brazilian",
+				"type": "text"
+			},
+			"areasInterest": {
+				"type": "keyword"
+			},
+			"id": {
+				"type": "keyword"
+			},
+			"text": {
+				"analyzer": "rebuilt_brazilian",
+				"type": "text"
+			},
+			"lastModified": {
+				"format": "yyyy-MM-dd HH:mm:ss||yyyy-MM-dd||epoch_millis",
+				"type": "date"
+			},
+			"contentType": {
+				"type": "integer"
+			},
+			"published": {
+				"type": "boolean"
+			}
+		}
+	},
+	"aliases": {}
+}
